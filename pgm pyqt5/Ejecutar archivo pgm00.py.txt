@@ -1,0 +1,1 @@
+Ejecutar archivo pgm00.py
